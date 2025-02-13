@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: stock-ms
+  namespace: devops
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: stock-ms
+  template:
+    metadata:
+      labels:
+        app: stock-ms
+    spec:
+      imagePullSecrets:  # Déplacé ici
+        - name: docker-hub-secret
+      containers:
+        - name: stock-ms
+          image: basdevsngn224/stock-ms:latest
+          ports:
+            - containerPort: 8080

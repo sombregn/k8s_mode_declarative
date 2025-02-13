@@ -1,0 +1,17 @@
+com\groupeisi\ecommerce\exception\EntityNotFoundException.class
+com\groupeisi\ecommerce\products\repository\ProductRepository.class
+com\groupeisi\ecommerce\products\mapper\ProductsMapper.class
+com\groupeisi\ecommerce\products\controller\ProductController.class
+com\groupeisi\ecommerce\products\mapper\ProductsMapperImpl.class
+com\groupeisi\ecommerce\products\dto\requests\ProductDtoRequest.class
+com\groupeisi\ecommerce\products\services\impl\ProductServiceImpl.class
+com\groupeisi\ecommerce\products\entities\ProductEntity.class
+com\groupeisi\ecommerce\exception\EntityExistsException.class
+com\groupeisi\ecommerce\products\entities\ProductEntity$ProductEntityBuilder.class
+com\groupeisi\ecommerce\exception\ApiException.class
+com\groupeisi\ecommerce\exception\ApiExceptionHandler.class
+com\groupeisi\ecommerce\products\mapper\ProductMapperV2.class
+com\groupeisi\ecommerce\products\dto\responses\ProductDtoResponse.class
+com\groupeisi\ecommerce\StockMsApplication.class
+com\groupeisi\ecommerce\config\ApplicationConfig.class
+com\groupeisi\ecommerce\products\services\ProductService.class

@@ -1,0 +1,15 @@
+D:\MASTER_II_GL\DEV_OPS\k8s_tp\src\main\java\com\groupeisi\ecommerce\config\ApplicationConfig.java
+D:\MASTER_II_GL\DEV_OPS\k8s_tp\src\main\java\com\groupeisi\ecommerce\exception\ApiException.java
+D:\MASTER_II_GL\DEV_OPS\k8s_tp\src\main\java\com\groupeisi\ecommerce\exception\ApiExceptionHandler.java
+D:\MASTER_II_GL\DEV_OPS\k8s_tp\src\main\java\com\groupeisi\ecommerce\exception\EntityExistsException.java
+D:\MASTER_II_GL\DEV_OPS\k8s_tp\src\main\java\com\groupeisi\ecommerce\exception\EntityNotFoundException.java
+D:\MASTER_II_GL\DEV_OPS\k8s_tp\src\main\java\com\groupeisi\ecommerce\products\controller\ProductController.java
+D:\MASTER_II_GL\DEV_OPS\k8s_tp\src\main\java\com\groupeisi\ecommerce\products\dto\requests\ProductDtoRequest.java
+D:\MASTER_II_GL\DEV_OPS\k8s_tp\src\main\java\com\groupeisi\ecommerce\products\dto\responses\ProductDtoResponse.java
+D:\MASTER_II_GL\DEV_OPS\k8s_tp\src\main\java\com\groupeisi\ecommerce\products\entities\ProductEntity.java
+D:\MASTER_II_GL\DEV_OPS\k8s_tp\src\main\java\com\groupeisi\ecommerce\products\mapper\ProductMapperV2.java
+D:\MASTER_II_GL\DEV_OPS\k8s_tp\src\main\java\com\groupeisi\ecommerce\products\mapper\ProductsMapper.java
+D:\MASTER_II_GL\DEV_OPS\k8s_tp\src\main\java\com\groupeisi\ecommerce\products\repository\ProductRepository.java
+D:\MASTER_II_GL\DEV_OPS\k8s_tp\src\main\java\com\groupeisi\ecommerce\products\services\impl\ProductServiceImpl.java
+D:\MASTER_II_GL\DEV_OPS\k8s_tp\src\main\java\com\groupeisi\ecommerce\products\services\ProductService.java
+D:\MASTER_II_GL\DEV_OPS\k8s_tp\src\main\java\com\groupeisi\ecommerce\StockMsApplication.java
